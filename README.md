@@ -17,7 +17,7 @@ This is a repo that I do to let me remember how to implement algorithms. I will 
 
 #### Sorting
 
-<p>For sorting, I will implement all the common/popular sorting algorithms out there.<br>Things like: insertion sort, selection sort, merge sort, heapsort, quicksort, bubble sort, bucket sort, and radix sort. <br><b>Remember to have their complexity calculated.</b></p>
+<p>For sorting, I will implement all the common/popular sorting algorithms out there.<br>Things like: insertion sort, selection sort, merge sort, heapsort, quicksort, bubble sort, bucket sort, and radix sort. <br><i>Remember to have their complexity calculated.</i></p>
 
 ### Other Interesting Algorithms
 
